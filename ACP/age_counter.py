@@ -4,7 +4,8 @@ try:
         print(age)
         print("even")
      else:
-         print(age)    
+         print(age)  
+         print("odd")  
 
 except ValueError :
      print("you have entered the wrong data type")
