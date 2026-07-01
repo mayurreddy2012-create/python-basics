@@ -1,5 +1,5 @@
 try:
-    num1, num2 = eval(input("enter two numbers, sseperated by a comma: "))
+    num1, num2 = eval(input("enter two numbers, seperated by a comma: "))
     result = num1/num2
     print("result is",result)
 
